@@ -1,0 +1,3 @@
+1 • Quando quiser usar aspas dentro de um texto, tem que usar '', "", ``, para cada aspas diferente.
+2 • Strings são dominadas por aspas, sendo elas '', "", ``, diferente de numbers.
+3 • "," Serve para valores literal, como numeros, fazendo eles um espaço.
