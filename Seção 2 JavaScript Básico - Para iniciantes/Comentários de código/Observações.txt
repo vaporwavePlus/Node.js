@@ -1,0 +1,2 @@
+Comentarios não funcionam sem //
+Comentario extendido /* */
